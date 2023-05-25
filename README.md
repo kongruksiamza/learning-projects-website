@@ -14,3 +14,8 @@
 |  11  |[การใช้งาน Local Storage](https://codepen.io/kongruksiamza/pen/abRpzYb) |
 |  12  |[ระบบอัพโหลดภาพ](https://codepen.io/kongruksiamza/pen/qBJREqB) |
 |  13  |[ระบบค้นหาข้อมูล (Auto Complete)](ระบบค้นหาข้อมูล (Auto Complete)) |
+
+## 💖 ช่องทางการสนับสนุน
+- [🎓 คอร์สเรียนบน Udemy ](https://www.udemy.com/user/kong-ruksiam/)
+- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+- [🧥 ร้านเสื้อโค้ท](https://www.instagram.com/coat2namsshop/)
