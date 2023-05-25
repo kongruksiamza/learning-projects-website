@@ -11,3 +11,6 @@
 |   8  | [JQuery DataTables](https://codepen.io/kongruksiamza/pen/WNaKQRB) |
 |   9  |[สุ่มสีพื้นหลังในเว็บไซต์ (RGB Color)](https://codepen.io/kongruksiamza/pen/JjmEoaG) |
 |  10  |[คำนวณระยะห่างของวัน](https://codepen.io/kongruksiamza/pen/BaqPoWv) |
+|  11  |[การใช้งาน Local Storage](https://codepen.io/kongruksiamza/pen/abRpzYb) |
+|  12  |[ระบบอัพโหลดภาพ](https://codepen.io/kongruksiamza/pen/qBJREqB) |
+|  13  |[ระบบค้นหาข้อมูล (Auto Complete)](ระบบค้นหาข้อมูล (Auto Complete)) |
